@@ -49,7 +49,7 @@ The technologies are:
 <li>Vannila JavaScript</li>
 <li>Figma</li>
 <li>Fontawesome icons</li>
-<li>Google fonts ("Cormorant Upright")<li></ol>
+<li>Google fonts ("Cormorant Upright")</li></ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
