@@ -95,8 +95,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
 Project Link: [https://github.com/SheeTabz/DigiHoteL](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -110,9 +108,6 @@ Project Link: [https://github.com/SheeTabz/DigiHoteL](https://github.com/your_us
 <li>Tabitha shee = Team member</li>
 <li>Kevi Guchu = Team member</li>
 <li>Rhoda = Team member</li>
-
-
-
 </ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
