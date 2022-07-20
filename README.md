@@ -15,9 +15,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -77,8 +74,6 @@ NodeJS
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    git clone git@github.com:SheeTabz/DigiHoteL.git
 
@@ -119,8 +114,6 @@ Project Link: [https://github.com/SheeTabz/DigiHoteL](https://github.com/your_us
 
 
 </ol>
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
