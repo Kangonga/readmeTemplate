@@ -122,6 +122,10 @@ NodeJS
   ```sh
   npm install npm@latest -g
   ```
+  On windows powershell
+  ```
+  nvm install latest
+  ```
   HTML and CSS require no installations as they can run on the web browser
 
 ### Installation
